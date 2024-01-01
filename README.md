@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chinmay Verma</h1>
+<h1 align="center">Hi 👋, I'm Chinmay Verma </h1>
 <h3 align="center">A passionate Software Engineer aspirant from India/Bharat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmayverma10&label=Profile%20views&color=0e75b6&style=flat" alt="chinmayverma10" /> </p>
